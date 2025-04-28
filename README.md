@@ -2,7 +2,8 @@
 ### Spring 2025 -- Lauren Turner
   This repository contains information, data, and scripts based on Project 1 of DS4002, which focused on word-based data. You are tasked to use a TF-IDF (Term Frequency - Inverse Document Frequency) model to explore polular music lyrics.
 ## This repository is organized as follows:
-  ![image](https://github.com/user-attachments/assets/23b8e453-5ffa-468b-8e10-231275522967)
+![image](https://github.com/user-attachments/assets/4655cfeb-e6b7-41fb-a4b9-8c964b95c47d)
+
 ## Reproducing Results
 ### Gathering Data
 In order to reproduce our results, find some top charts playlists from the cities you would like to analyze (can be from Apple Music, Spotify, Amazon Music, SoundCloud, etc.). Enter the song name and artist into a .txt file in the format ("song_name", "artist") with each song separated by commas (see DATA/sample_song_list). Register for the Genius API: https://docs.genius.com/#/getting-started-h1 ; save your access token. Open SCRIPT/1.lyric_scraper_script.py and input each song list and run to create a .csv file with all of the lyrics data. 
