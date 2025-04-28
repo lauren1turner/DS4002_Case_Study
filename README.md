@@ -1,4 +1,4 @@
-# DS4002 Case Study: Exploring Cultural Connections Music Lyrics 
+# DS4002 Case Study: Exploring Cultural Connections in Music Lyrics 
 ### Spring 2025 -- Lauren Turner
   This repository contains information, data, and scripts based on Project 1 of DS4002, which focused on word-based data. You are tasked to use a TF-IDF (Term Frequency - Inverse Document Frequency) model to explore polular music lyrics.
 ## This repository is organized as follows:
